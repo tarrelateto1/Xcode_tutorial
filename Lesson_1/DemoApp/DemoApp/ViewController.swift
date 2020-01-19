@@ -14,10 +14,19 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        let img = UIImage (named:"Godzilla")
-        let imgView = UIImageView(image: img)
-        imgView.frame = CGRect(x: 0, y:0 ,width:415 ,height:900)
-        self.view.addSubview(imgView)
+//        Lesson 1
+//        let img = UIImage (named:"Godzilla")
+//        let imgView = UIImageView(image: img)
+//        imgView.frame = CGRect(x: 0, y:0 ,width:415 ,height:900)
+//        self.view.addSubview(imgView)
+//        End Lesson 1
+        
+//        Lesson 2
+//        let img = UIImage (named:"Pic7")
+//        let imgView = UIImageView(image: img)
+//        imgView.frame = CGRect(x: 0, y:0 ,width:415 ,height:900)
+//        self.view.addSubview(imgView)
+//        
     }
 
 
